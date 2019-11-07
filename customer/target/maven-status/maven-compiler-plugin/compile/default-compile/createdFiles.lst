@@ -1,0 +1,5 @@
+com\tricon\customer\CustomerApplication.class
+com\tricon\customer\controller\CustomerController.class
+com\tricon\customer\dao\CustomerDao.class
+com\tricon\customer\model\Customer.class
+com\tricon\customer\service\CustomerService.class
